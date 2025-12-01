@@ -23,9 +23,11 @@
 4. **JSON Triage Record Generation:** Combines results into a standardized triage record.
 5. **Logging:** Records each incident for monitoring and analytics.
 
-Here’s a **professional, submission-ready `README.md`** for your GitHub repository with SENTINELS-Lite:
+## Try the Live Demo
 
-```markdown
+You can try the deployed version of **SENTINELS-Lite** here:  
+[**SENTINELS-Lite on Hugging Face Spaces**](https://huggingface.co/spaces/yashfy/SENTINELS-Lite_Multi-Agent_Disaster_Response_Triage_System)
+
 # SENTINELS-Lite: Multi-Agent Emergency Triage System
 
 **SENTINELS-Lite** is an AI-powered emergency response platform that converts raw multi-modal incident reports (text + images) into actionable triage records. It is designed for rapid, accurate emergency dispatch and decision-making. This project was developed as part of an **Enterprise Agent Capstone Project**.
